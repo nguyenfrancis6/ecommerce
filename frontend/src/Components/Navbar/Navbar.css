@@ -157,6 +157,7 @@
     width: 30px;
     rotate: -90deg;
     transition: 0.5s;
+    cursor: pointer;
   }
 
   .nav-menu{
